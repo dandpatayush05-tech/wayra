@@ -1,0 +1,7 @@
+{
+  "name": "WAYRA",
+  "description": "Pan-India sacred heritage & architectural explorer covering Ayodhya Ram Mandir, Mount Kailash, Kashi, Kedarnath, and Ellora with WAYRA AI Concierge, maps and search grounding, diurnal lighting, and physical 3D aesthetic.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
